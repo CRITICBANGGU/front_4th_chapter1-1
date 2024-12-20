@@ -1,4 +1,4 @@
-import { navAction, submitAction } from "./utils/EvnetHandler";
+import { navAction, submitAction } from "./utils/evnetHandler";
 import Router from "./router/Router";
 
 const { router } = Router();
